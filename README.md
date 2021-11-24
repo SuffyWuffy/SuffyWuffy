@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SuffyWuffy
-- 👀 I’m interested in : Fornite
-- 🌱 I’m currently learning : Crank 90s
-- 💞️ I’m looking to collaborate on : Epic Games
-- 📫 How to reach me : Fortnite
+- 👀 I’m interested in : Code
+- 🌱 I’m currently learning : Code
+- 💞️ I’m looking to collaborate on : Code
+- 📫 How to reach me : Instagram
 
 <!---
 SuffyWuffy/SuffyWuffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
